@@ -1,0 +1,43 @@
+* {
+  border-radius: 0px !important;
+}
+
+.tulisan-tengah {
+  text-align: center !important;
+}
+
+.jrk-marjin-bwh {
+  margin-bottom: 15px !important;
+}
+
+.input-Saldo-atas{
+  margin-top:200px !important;
+}
+
+.input-Saldo-bawah{
+  margin-bottom:290px !important;
+}
+
+.btn-saldo-atas{
+  margin-top:30px !important;
+}
+
+.btn-transaksi-jarak{
+  margin-right: 10px !important;
+}
+
+.btn-bayar-atas{
+  margin-top : 15px !important;
+}
+
+.body-panjang{
+  padding-bottom: 370px !important;
+}
+
+.panel-diskon-berlaku{
+  margin-top:30px !important;
+}
+
+.scan-barcode-bawah{
+  margin-bottom:10px !important;
+}
